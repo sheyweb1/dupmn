@@ -1,0 +1,6 @@
+COIN_NAME="marcoin"
+COIN_PATH="/usr/local/bin/"
+COIN_DAEMON="marcoind"
+COIN_CLI="marcoin-cli"
+COIN_FOLDER="/root/.marcoin"
+COIN_CONFIG="marcoin.conf"
