@@ -1,0 +1,6 @@
+COIN_NAME="lightpaycoin"
+COIN_PATH="/usr/local/bin/"
+COIN_DAEMON="lightpaycoind"
+COIN_CLI="lightpaycoin-cli"
+COIN_FOLDER="/root/.lightpaycoin"
+COIN_CONFIG="lightpaycoin.conf"
