@@ -1,4 +1,4 @@
-COIN_NAME="klimatas"
+COIN_NAME="kts"
 COIN_PATH="/usr/local/bin/"
 COIN_DAEMON="ktsd"
 COIN_CLI="kts-cli"
